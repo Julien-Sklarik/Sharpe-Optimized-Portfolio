@@ -1,4 +1,6 @@
-Expected files if you want to run on real data
+The datasets I used are private. 
+
+However, here are the expected files if you want to run on real data:
 
 MarketExcessReturns.csv          shape T by 1                      units decimal monthly excess return
 MonthlyExcessReturns.csv         shape T by N                      units decimal monthly excess returns for N assets
